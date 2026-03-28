@@ -26,7 +26,8 @@ This is your second specialist agent. It answers questions about food, counselin
    - [knowledge-base/pdf/campus-resources-guide.pdf](../knowledge-base/pdf/campus-resources-guide.pdf)
    - [knowledge-base/pdf/campus-resources-faq.pdf](../knowledge-base/pdf/campus-resources-faq.pdf)
 4. Paste the `Campus Resources knowledge description` from [copy-paste/agent-config.md](../copy-paste/agent-config.md).
-5. Save.
+5. Name it something like `Resources Knowledge`.
+6. Save.
 
 ## Configure behavior
 

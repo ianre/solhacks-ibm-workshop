@@ -26,7 +26,7 @@ This is your first specialist agent. It answers questions about scholarships, FA
    - [knowledge-base/pdf/scholarships-overview.pdf](../knowledge-base/pdf/scholarships-overview.pdf)
    - [knowledge-base/pdf/scholarship-faq.pdf](../knowledge-base/pdf/scholarship-faq.pdf)
 4. Paste the `Scholarship knowledge description` from [copy-paste/agent-config.md](../copy-paste/agent-config.md).
-5. Name it something `Scholarship Knowledge` is an option.
+5. Name it something like `Scholarship Knowledge`.
 6. Save.
 
 ## Configure behavior
