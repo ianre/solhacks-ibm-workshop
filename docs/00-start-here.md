@@ -7,7 +7,7 @@ This workshop is designed to be completed in about ~60 minutes. You do not need 
 0. Assess if we should pair up.
 Follow the instructor through:
 1. Create an IBM Clouda account:
-    - Go to https://cloud.ibm.com/registration?utm_content=academicsb
+    - Go to https://cloud.ibm.com
     - Register for a Free IBM Cloud Account
 2. Provision watsonx orchestrate instance (Free Tier)
 3. Go to https://www.twilio.com/try-twilio
